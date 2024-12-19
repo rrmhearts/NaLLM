@@ -40,7 +40,7 @@ Please note that you'll need Docker installed on your machine to build and run t
 
 ## Demo database
 
-There is a demo databasing running on demo.neo4jlabs.com. This database is a set of compnaies, thier subsidaiers, people related to the companies and articles mentioned the compnaies. The database is a subset of the [Diffbot](https://www.diffbot.com/) knowledge graph. You can access it with the following credentaiils:
+There is a demo databasing running on demo.neo4jlabs.com. This database is a set of companies, their subsidiaries, people related to the companies and articles mentioning the companies. The database is a subset of the [Diffbot](https://www.diffbot.com/) knowledge graph. You can access it with the following credentials:
 
 ```
 URI: neo4j+s://demo.neo4jlabs.com
